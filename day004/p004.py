@@ -5,7 +5,7 @@
 # The final output displays both choices and announces the result: win, lose, or draw.
 #
 # Author: iamraffa
-# Date: 25/10/2024
+# Date: 27/10/2024
 
 import options
 import random
