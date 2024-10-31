@@ -30,7 +30,6 @@ def define_winner(bid_dictionary):
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-
 clear_screen()
 print(art.logo)
 print("Welcome to the secret auction program.")
